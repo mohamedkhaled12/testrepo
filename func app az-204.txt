@@ -1,0 +1,5 @@
+https://escalator-functions-a1.azurewebsites.net/api/HttpTrigger1?code=7XCiS66IyCZNYUqzsaFPA40w-cnH7QAPm5mlSsUGVB08AzFueRh3Eg==
+
+
+
+7XCiS66IyCZNYUqzsaFPA40w-cnH7QAPm5mlSsUGVB08AzFueRh3Eg==
